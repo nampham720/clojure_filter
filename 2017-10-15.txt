@@ -1,0 +1,17 @@
+semester;title;crn;code;levels;credits;campus;section;capacity;actual;starthour;startmin;endhour;endmin;weekday;room;datestart;dateend;schtype;instructor;prereq;coreq
+200709;Sociocultural Anthropology;40940;ANTH 0200T;Undergraduate;3.0;North Oshawa;1;10;0;19;10;22;0;R;University Building A1 UA1220;Sep 13, 2007;Dec 14, 2007;Lecture;Trent University;"SOCI 0100U";None
+200709;Tech across Time and Cultures;40941;ANTH 0203T;Undergraduate;3.0;North Oshawa;1;25;23;11;10;14;0;T;University Building A1 UA2220;Sep 11, 2007;Dec 14, 2007;Lecture;Trent University;None;None
+200709;Archaeology;40942;ANTH 0212T;Undergraduate;3.0;North Oshawa;1;10;0;14;10;17;0;W;UL Building UL12;Sep 12, 2007;Dec 14, 2007;Lecture;Trent University;"ANTH 0100U";None
+200709;Theories of Society & Culture;40943;ANTH 0399T;Undergraduate;3.0;North Oshawa;1;5;0;11;10;14;0;W;UL Building UL6;Sep 12, 2007;Dec 14, 2007;Lecture;Trent University;"ANTH 0200U"( "ANTH 0212U";None
+200709;Research in Applied Bioscience;41139;APBS 6010G;Graduate;3.0;North Oshawa;1;20;11;9;10;11;0;M;University Building A1 UA4170;Sep 06, 2007;Dec 05, 2007;Lecture;Sean G. Forrester;None;None
+200709;Current Issues in Biology I;40944;BIOL 0102T;Undergraduate;3.0;North Oshawa;1;0;0;13;10;17;0;F;University Building A1 UA2230;Sep 14, 2007;Dec 14, 2007;Lecture & Lab;Trent University;None;None
+200709;Current Issues in Biology I;40944;BIOL 0102T;Undergraduate;3.0;North Oshawa;1;0;0;14;10;18;0;F;I-WING I210;Sep 14, 2007;Dec 14, 2007;Lecture & Lab;Trent University;None;None
+200709;Current Issues in Biology I;40944;BIOL 0102T;Undergraduate;3.0;North Oshawa;1;0;0;14;10;18;0;F;A-Wing A209;Sep 14, 2007;Dec 14, 2007;Lecture & Lab;Trent University;None;None
+200709;Introductory Ecology;41014;BIOL 0226T;Undergraduate;3.0;North Oshawa;1;10;0;14;10;17;0;M;University Building A1 UA2230;Sep 10, 2007;Dec 14, 2007;Lecture;Trent University;"BIOL 0102U";None
+200709;Introductory Ecology;41014;BIOL 0226T;Undergraduate;3.0;North Oshawa;1;10;0;14;10;17;0;M;A-Wing A213;Sep 10, 2007;Dec 14, 2007;Lecture;Trent University;"BIOL 0102U";None
+200709;Biology I;40050;BIOL 1010U;Undergraduate;3.0;North Oshawa;1;250;229;15;40;17;0;W;University Building A1 UA1350;Sep 06, 2007;Dec 05, 2007;Lecture;Christopher Garside;None;None
+200709;Biology I;40050;BIOL 1010U;Undergraduate;3.0;North Oshawa;1;250;229;15;40;17;0;W;University Building A1 UA1350;Sep 06, 2007;Dec 05, 2007;Lecture;Mary Olaveson;None;None
+200709;Biology I;40050;BIOL 1010U;Undergraduate;3.0;North Oshawa;1;250;229;9;40;11;0;F;University Building A1 UA1350;Sep 06, 2007;Dec 05, 2007;Lecture;Christopher Garside;None;None
+200709;Biology I;40050;BIOL 1010U;Undergraduate;3.0;North Oshawa;1;250;229;9;40;11;0;F;University Building A1 UA1350;Sep 06, 2007;Dec 05, 2007;Lecture;Mary Olaveson;None;None
+200709;Biology I;40051;BIOL 1010U;Undergraduate;3.0;North Oshawa;2;250;97;12;10;13;30;W;UL Building UP1500;Sep 06, 2007;Dec 05, 2007;Lecture;Christopher Garside;None;None
+200709;Biology I;40051;BIOL 1010U;Undergraduate;3.0;North Oshawa;2;250;97;12;10;13;30;W;UL Building UP1500;Sep 06, 2007;
