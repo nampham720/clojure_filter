@@ -6,7 +6,7 @@ File:
 
 There are 02 files in this project:
 * Regular approach (01): Normal thinking, unorganised code (coding along thinking)
-* Clojure approach (01): Using functional programming approach. Code are organised and thought hierarchically.
+* Clojure approach (02): Using functional programming approach. Code are organised and thought hierarchically.
 
 Difference between these two styles: 
 
