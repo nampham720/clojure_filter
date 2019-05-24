@@ -16,7 +16,7 @@ Difference between these two styles:
 * (02) requires more thinking than (01).
 * (01) is easy to approach and program but takes more time than (02). 
 
-**Required** lenin if working in Windows. 
+**Required** leiningen if working on Windows. 
 
 
 #### Author:
