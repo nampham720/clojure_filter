@@ -20,5 +20,5 @@ Difference between these two styles:
 
 
 #### Author:
-Nam (Nam) Pham | nam.pham@edu.turkuamk.fi | Turku University of Applied Sciences, Finland
+Nam (Nam) Pham | Turku University of Applied Sciences, Finland
  
