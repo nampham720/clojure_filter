@@ -38,27 +38,3 @@
     b (set (for [line (CSCI-fromYear file 201601)]  (code line)))
     c (sort (clojure.set/difference a b))] 
     (println (clojure.string/join "\n" c)))
-
-;;newline
-(println "\nTop 10 Instructors\n")
-
-;;filter pattern
-(defn what-to-count [line]
-  (for [x line 
-        :when 
-        (and 
-          (= (nth x 18) "Lecture")
-          (or  
-            (= (nth x 0) "201609")
-            (= (nth x 0) "201601")))  ] 
-  (nth x 19)))
-
-;;run
-(let [a (count-freq (what-to-count (readFile "2017-10-15.txt")))]
-  (println 
-    (clojure.string/join 
-      "\n"
-       (take 10 (sort-by val > a)))))
-
-
-      
